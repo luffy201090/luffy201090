@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dinh Hung Cuong
 - 👀 I have 8 years experience in software development
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking for a remote fullstack developer position
+- 💞️ I’m looking for a fullstack or backend developer position
 - 📫 How to reach me d.luffy2010@gmail.com
 
 <!---
