@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dinh Hung Cuong
-- 👀 I have 8 years experience in software development. I can do backend with Java and NodeJS, frontend with Angular and React.
+- 👀 I have > 10 years experience in software development. I can do backend with Java and NodeJS, frontend with Angular and React.
 - 🌱 I’m currently learning flutter in my free time
 - 💞️ I’m looking for a fullstack or backend developer position
 - 📫 How to reach me d.luffy2010@gmail.com
@@ -10,8 +10,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 My Projects:
-
-- Techcombank Omni Channel Banking ( Currently )
+- Zillearn ( Currently )
+- Techcombank Omni Channel Banking
 - Techcombank FMCG: A backend service allows VinShop merchants to borrow money and pay via Techcombank
 - Finos Employee Benefits Program: A lending application helps employees in industrial areas to borrow money easily
 - Woori Bank Anti Fraud System And Anti Money Laundering
